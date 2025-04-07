@@ -1,1 +1,2 @@
 # SpotifyWizard
+# SpotifyWiz
